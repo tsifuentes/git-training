@@ -1,1 +1,1 @@
-I'm a new file created by another author.
+const a = "I'm a new file created by another author.";
